@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.father{
+    width: 100%;
+}
+header{
+    width: 100%;
+    padding: 45px 60px;
+    display: flex;
+    justify-content: space-between;
+}
+header ul{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+header ul li{
+    list-style: none;
+}
+header ul li a{
+    font-size: 18px;
+    font-family: monospace;
+    color: #4B321D;
+    text-decoration: none;
+}
+.text1{
+    font-family: sans-serif;
+    font-weight: 80;
+    font-size: 80px;
+    color: #4B321D;
+    margin: 60px;
+}
+.img1 img{
+    width: 1200px;
+    padding-top: 136px;
+    margin: 60px;
+}
+.text2{
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 70px;
+    color: #4B321D;
+    padding: 84px;
+}
+.but1{
+    padding-left: 80px;
+}
+.but1 button{
+    padding: 15px;  
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    background-color: #ffffff;
+    color: #4B321D;
+    border-radius: 5px;
+}
+.img2{
+    display: flex;
+    padding-top: 100px;
+    padding-left: 80px;
+}
+.text3{
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 100px;
+}
+.img2 .text3{
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 38px;
+    color: #4B321D;
+}
+.but2{
+    padding-top: 680px;
+    margin-left: -500px;
+}
+.but2 button{
+    padding: 15px;  
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    background-color: #ffffff;
+    color: #4B321D;
+    border-radius: 5px;
+}
+
+.text4{
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 38px;
+    color: #4B321D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text5{
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+}
+.but3{
+    padding-top: 55px;
+}
+.but3 button{
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #4B321D;
+    padding: 15px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+}
+.page{
+    width: 1300px;
+    height: 480px;
+    background-color: #4B321D;
+    border-radius: 20px;
+    margin-top: 90px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.text6{
+    padding: 84px 100px;
+}
+.text6 p{
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 80px;
+    color: #F1F1EB;
+}
+.text7{
+
+}
+.text7 p{
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 26px;
+    line-height: 36px;
+    color: #F1F1EB;
+    padding-left: 100px;
+}
